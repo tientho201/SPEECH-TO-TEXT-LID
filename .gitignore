@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Model files
+models/checkpoints/
+models/saved/
+models/inference/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pb
+
+# Data
+datasets/raw/
+datasets/processed/
+datasets/train/
+datasets/val/
+datasets/test/
+*.wav
+*.mp3
+*.flac
+
+# Logs
+logs/
+*.log
+wandb/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Experiments
+experiments/
+*.tb
+tensorboard/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Testing
+tests/
+
+# Metadata  
+/metadata.jsonl
+
+test.ipynb
+
+train_model main.ipynb
