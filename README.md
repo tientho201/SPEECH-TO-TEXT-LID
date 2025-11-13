@@ -102,3 +102,12 @@ Mọi đóng góp đều được hoan nghênh! Vui lòng mở Issue để thả
 1. **Sửa Code:** Vì tôi đã đổi tên thư mục từ checkpoints + model thành checkpoints trong README cho chuẩn, bạn hãy vào file train_model.ipynb và sửa lại đường dẫn lưu file tương ứng nhé (xóa đoạn + model đi).
 
 2. **Quá trình huấn luyện**: Tôi huấn luyện trên L40s với mô hình Wav2Vec2 (khá nặng) mất khoảng 4 tiếng nên khuyến khích cân nhắc nếu như muốn finetuning Model như tôi.
+
+3. Có thể tải **dataset** thông qua link bên dưới:
+
+* **Dataset** đã qua xử lí và nén thành các file .arrow
+    * **[Link train](https://www.kaggle.com/datasets/tinthnguyn/lid-all-train)**
+    * **[Link val và test](https://www.kaggle.com/datasets/tinthnguyn/lid-val-test)**
+
+* **Dataset** chưa qua xử lí là các file wav
+    * **[Link raw](https://drive.google.com/drive/folders/1imzGYI9ihO7RCOQP9PMglXp-ovnk4GOo?usp=drive_link)**
