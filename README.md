@@ -1,6 +1,6 @@
 # 🎙️ Speech-to-Text & Language Identification Model
 
-Một giải pháp tích hợp Deep Learning để nhận diện ngôn ngữ (LID) và chuyển đổi giọng nói thành văn bản (STT) với độ chính xác cao. Mô hình phân loại gồm 6 nhãn **(en, vi, jp, ko, th, zh)** Được finetuning trên model **facebook/wav2vec2-large-xlsr-53** và huấn luyện trên GPU **L40s**
+Một giải pháp tích hợp Deep Learning để nhận diện ngôn ngữ (LID) và chuyển đổi giọng nói thành văn bản (STT) với độ chính xác cao. Mô hình phân loại gồm 6 nhãn **(en, vi, jp, ko, th, zh)** .Được finetuning trên model **facebook/wav2vec2-large-xlsr-53**, dữ liệu được lấy từ voxlingua107 và huấn luyện trên GPU **L40s**.
 
 ## 📖 Giới thiệu
 Dự án này cung cấp một quy trình (pipeline) hoàn chỉnh từ khâu xử lý dữ liệu âm thanh thô đến việc huấn luyện và đánh giá mô hình. Hệ thống được thiết kế để:
