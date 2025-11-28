@@ -65,3 +65,7 @@ tests/
 test.ipynb
 
 train_model main.ipynb
+
+app.py
+
+push_model_hgf.py
