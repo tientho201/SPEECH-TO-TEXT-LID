@@ -10,3 +10,5 @@ pandas
 scipy
 numpy
 pyyaml
+gradio
+librosa
