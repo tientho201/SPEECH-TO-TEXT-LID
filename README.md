@@ -99,10 +99,6 @@ Toàn bộ quy trình được tích hợp trong file train_model.ipynb. Hãy m�
 
   - STT: WER (Word Error Rate), CER (Character Error Rate).
 
-## 🤝 Đóng góp
-
-Mọi đóng góp đều được hoan nghênh! Vui lòng mở Issue để thảo luận về những thay đổi lớn trước khi gửi Pull Request.
-
 # 📝 Lưu ý:
 
 1. **Sửa Code:** Vì tôi đã đổi tên thư mục từ checkpoints + model thành checkpoints trong README cho chuẩn, bạn hãy vào file train_model.ipynb và sửa lại đường dẫn lưu file tương ứng nhé (xóa đoạn + model đi).
@@ -121,3 +117,8 @@ Mọi đóng góp đều được hoan nghênh! Vui lòng mở Issue để thả
 
 4. Tải **model** thông qua link bên dưới:
    - **[Link model](https://huggingface.co/tientho201/STT-LID-Model)**
+
+
+# 🤝 Đóng góp
+
+Mọi đóng góp đều được hoan nghênh! Vui lòng mở Issue để thảo luận về những thay đổi lớn trước khi gửi Pull Request.
